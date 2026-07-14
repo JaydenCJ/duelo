@@ -9,7 +9,7 @@ description = "Bradley-Terry and Elo rankings with confidence intervals from pai
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
-authors = [{ name = "JaydenCJ" }]
+authors = [{ name = "JaydenCJ", email = "aisingioro.kiyon@gmail.com" }]
 keywords = ["ranking", "bradley-terry", "elo", "leaderboard", "pairwise", "confidence-interval", "evaluation"]
 classifiers = [
     "Development Status :: 3 - Alpha",
